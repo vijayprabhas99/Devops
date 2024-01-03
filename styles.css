@@ -1,0 +1,6 @@
+/* Your existing CSS for styling goes here */
+.error-message {
+    color: red;
+    margin-top: 5px;
+    font-size: 12px;
+  }
